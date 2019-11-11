@@ -1,0 +1,23 @@
+.logo {
+  margin: 2%;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 40%;
+}
+
+.card-img-top {
+  height: auto;
+}
+.title {
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.list-item {
+  width: 100%;
+}
+
+.item-card {
+  margin: 1%;
+}
